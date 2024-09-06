@@ -1,0 +1,26 @@
+table,
+h1 {
+  font-family: arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+input[type="text"] {
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 200px;
+}
+
+/* tr:nth-child(even) {
+  background-color: #dddddd;
+} */
